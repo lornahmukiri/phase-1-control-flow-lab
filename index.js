@@ -34,3 +34,13 @@ function switchOnCharmFromTip(tip){
   }
   
 }
+
+
+//Using if else (For practice)
+let user = {
+  "role": "student" 
+}
+
+// logical NOT
+let a = true
+ console.log(!a)
